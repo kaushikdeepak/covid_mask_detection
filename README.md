@@ -12,5 +12,6 @@ Multiple Face detection using deep learning
 ***to activate your environment!***
 * **Write**   `  pip install -r requirements.txt  ` 
 ***to install the python dependencies related to this project like opencv,numpy,scipy,tensorflow,matplotlib etc.***
-* **Run the command** `python3 detect_mask_video.py` ***to run your covid mask detection demo***
+* **Run the command** `python3 training.py` ***to train the covid mask detection model***
+* **Run the command** `python3 Mask_image_detector.py` ***to run your covid mask detection demo***
 
